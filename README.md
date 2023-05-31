@@ -63,6 +63,7 @@ This repository contains a curated list of internal and external resources aroun
 - [QGIS Tutorials](https://www.qgistutorials.com/en/docs/3/working_with_terrain.html) - Steps to generate various maps from elevation data such as hillshade and contour.
 ### Agency of Mapping
 (?)
+
 ### Geoprocessing
 - [QGIS Geoprocessing tools video tutorial](https://www.youtube.com/watch?v=Zqo8urOTH3c) - Video tutorial explaining basics of geoprocessing tools in QGIS.
 - [The 7 Essential Geoprocessing tools](https://gisgeography.com/geoprocessing-tools/) - An article explaining the seven essential geoprocessing tools.
