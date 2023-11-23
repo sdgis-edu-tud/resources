@@ -44,6 +44,10 @@ This repository contains a curated list of internal and external resources aroun
 ---
 
 ## GIS
+### TUTORIALS BASICS 
+- [QGIS TOI-Pedia](http://wiki.bk.tudelft.nl/toi-pedia/QGIS#Basic_tutorials) - A digital repository by TUDelft with QGIS tutorials 
+- [QGIS Tutorials and Tips](https://www.qgistutorials.com/en/) - QGIS Tutorials and Tips
+- [QGIS Training Manual](https://docs.qgis.org/3.10/en/docs/training_manual/index.html) - A digital QGIS training manual
 ### Generating Maps 
 (Mapping? Generating Maps? Basics?)(but this also includes general tutorials?)
 - [QGIS Tutorials](https://www.qgistutorials.com/en/index.html) - Structured QGIS tutorials covering basics.
@@ -161,11 +165,7 @@ This repository contains a curated list of internal and external resources aroun
 
 ### Platforms, Software, Tools
 
-### ADD IN "GIS" - TUTORIALS BASICS 
 
-- [QGIS TOI-Pedia](http://wiki.bk.tudelft.nl/toi-pedia/QGIS#Basic_tutorials) - A digital repository by TUDelft with QGIS tutorials 
-- [QGIS Tutorials and Tips](https://www.qgistutorials.com/en/) - QGIS Tutorials and Tips
-- [QGIS Training Manual](https://docs.qgis.org/3.10/en/docs/training_manual/index.html) - A digital QGIS training manual
 
 
 
