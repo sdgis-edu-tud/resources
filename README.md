@@ -7,10 +7,12 @@ This repository contains a curated list of internal and external resources aroun
 ## Content
 - [GIS](#gis)
   - [Generating Maps](#generating-maps)
+  - [Spatial Analysis](#spatial-analysis)
   - [Multicriteria Analysis](#multicriteria-analysis)
   - [Working with digital elevation models](#working-with-digital-elevation-models)
   - [Agency of Mapping](#agency-of-mapping)
   - [Geoprocessing](#geoprocessing)
+  - [Cartography](#cartography)
 - [3D](#3d)
   - [Environmental Modelling](#environmental-modelling) 
   - [3D GIS](#3d-gis)
